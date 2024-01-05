@@ -14,4 +14,4 @@ This project focuses on analyzing and visualizing the stock market performance o
 ## Installation
 To run this project, you need to install the necessary Python libraries. Use the following command to install yfinance:
 ```bash
-pip install yfinance
+!pip install yfinance
